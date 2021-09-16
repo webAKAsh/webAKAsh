@@ -1,8 +1,6 @@
 <h1 align="center">const Akash = name => return name.Akash</h1>
 <h3 align="center">{ Akash.valueOf(FrontEnd_Web_Developer) }</h3>
 
-<img href="https://github.com/webAKAsh/webAKAsh/blob/main/Goku.gif" width="200" height="200"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakash&label=Profile%20views&color=0e75b6&style=flat" alt="webakash" /> </p>
 
 - 🌱 I’m currently exploring in **Next.JS 😂😂**
