@@ -13,6 +13,18 @@
 
 - ⚡ Fun fact **Lets Explore**
 
+<h3 align="left">Self Projects:</h3>
+<a href="https://webakash.github.io/RandomColor/RandomColor.html">
+  <img src="https://img.shields.io/badge/Random--Color-white?style=for-the-badge&logo=ClickUp"/>
+</a>
+<a href="https://webakash.github.io/DrumKit/Drumkit.html">
+  <img src="https://img.shields.io/badge/DrumKit--Let's%20Rock!-purple?style=for-the-badge&logo=Apple%20Music"/>
+</a>
+<a href="https://webakash.github.io/TicTacToe/Tic-Tac-Toe.html">
+  <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE...-darkred?style=for-the-badge&logo=Vodafone"/>
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-garg-ab278b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash garg" height="30" width="40" /></a>
