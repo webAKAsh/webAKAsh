@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE...-darkred?style=for-the-badge&logo=Vodafone"/>
 </a>
 
+<h3 align="left">React Projects:</h3>
+<a href="https://react-movie-fpd2y9hjw-webakash.vercel.app/">
+  <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
