@@ -25,7 +25,7 @@
 </a>
 
 <h3 align="left">React Projects:</h3>
-<a href="https://react-movie-fpd2y9hjw-webakash.vercel.app/">
+<a href="https://react-movie-aloiiodpy-webakash.vercel.app/">
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
