@@ -14,21 +14,21 @@
 - ⚡ Fun fact **Lets Explore**
 
 <h3 align="left">Self Projects:</h3>
-<a href="https://webakash.github.io/RandomColor/RandomColor.html">
+<a href="https://webakash.github.io/RandomColor/RandomColor.html" target="blank">
   <img src="https://img.shields.io/badge/Random--Color-white?style=for-the-badge&logo=ClickUp"/>
 </a>
-<a href="https://webakash.github.io/DrumKit/Drumkit.html">
+<a href="https://webakash.github.io/DrumKit/Drumkit.html" target="blank">
   <img src="https://img.shields.io/badge/DrumKit--Let's%20Rock!-purple?style=for-the-badge&logo=Apple%20Music"/>
 </a>
-<a href="https://webakash.github.io/TicTacToe/Tic-Tac-Toe.html">
+<a href="https://webakash.github.io/TicTacToe/Tic-Tac-Toe.html" target="blank">
   <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE...-darkred?style=for-the-badge&logo=Vodafone"/>
 </a>
 
 <h3 align="left">React Projects:</h3>
-<a href="https://react-movie-aloiiodpy-webakash.vercel.app/">
+<a href="https://react-movie-aloiiodpy-webakash.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
-<a href="https://course-blog-mszc0bwb5-webakash.vercel.app">
+<a href="https://course-blog-mszc0bwb5-webakash.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/A Common Blog-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
