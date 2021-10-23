@@ -28,6 +28,9 @@
 <a href="https://react-movie-aloiiodpy-webakash.vercel.app/">
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
+<a href="https://course-blog-mszc0bwb5-webakash.vercel.app">
+  <img src="https://img.shields.io/badge/A Common Blog-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
