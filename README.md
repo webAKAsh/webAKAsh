@@ -25,6 +25,10 @@
 </a>
 
 <h3 align="left">React Projects:</h3>
+<a href="https://react-calculator-mu-five.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Calculator -20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
 <a href="https://react-movie-aloiiodpy-webakash.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
