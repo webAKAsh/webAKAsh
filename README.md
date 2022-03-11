@@ -1,4 +1,4 @@
-<h1 align="center">const Akash = name => return name.Akash</h1>
+<h1 align="center">const name = Akash => console.log(Akash)</h1>
 <h3 align="center">{ Akash.valueOf(FrontEnd_Web_Developer) }</h3>
 
 <img align="left" src="https://github.com/webAKAsh/webAKAsh/blob/main/vegeta.gif" width="250" height="150" />
