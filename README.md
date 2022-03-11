@@ -1,5 +1,5 @@
 <h1 align="center">const name = Akash => console.log(Akash)</h1>
-<h3 align="center">{ Akash.valueOf(Web_Developer) }</h3>
+<h3 align="center">{ Akash.valueOf( Web_Developer ) }</h3>
 
 <img align="left" src="https://github.com/webAKAsh/webAKAsh/blob/main/vegeta.gif" width="250" height="150" />
 <img align="center" src="https://github.com/webAKAsh/webAKAsh/blob/main/goku.gif" width="400" height="150" />
