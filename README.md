@@ -38,7 +38,7 @@
 </a>
 
 <h3 align="left">
-  NEXT.JS Projects
+  Next.JS Projects
 </h3>
 
 <a href="https://nft-marketplace-next-app.vercel.app/" target="blank">
