@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE...-darkred?style=for-the-badge&logo=Vodafone"/>
 </a>
 
-<h3 align="left">React Projects:</h3>
+<h3 align="left">React.JS Projects:</h3>
 <a href="https://react-calculator-mu-five.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Calculator -20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
@@ -35,6 +35,14 @@
 
 <a href="https://profiles-mzogk8mnr-webakash.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Fetching API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<h3 align="left">
+  <img src="https://img.shields.io/badge/Next JS PROJECTS-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</h3>
+
+<a href="https://nft-marketplace-next-app.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/NFT%20MARKETPLACE%20UI-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
 </a>
 
 <h3 align="left">Connect with me:</h3>
