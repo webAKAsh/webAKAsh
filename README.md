@@ -38,7 +38,7 @@
 </a>
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/Next JS PROJECTS-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  NEXT.JS Projects
 </h3>
 
 <a href="https://nft-marketplace-next-app.vercel.app/" target="blank">
