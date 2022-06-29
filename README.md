@@ -33,10 +33,6 @@
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
-<a href="https://profiles-mzogk8mnr-webakash.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Fetching API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
 <h3 align="left">
   Next.JS Projects
 </h3>
