@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakash&label=Profile%20views&color=0e75b6&style=flat" alt="webakash" /> </p>
 
-- 🌱 I’m currently exploring in **Solidity 😂😂**
-
-- 📫 Contact me on my Telegram Link => **https://t.me/webAAKAsh**
+- 🌱 I’m currently exploring in **Next.JS with typescript 😂😂**
 
 - ⚡ Fun fact **Lets Explore**
 
