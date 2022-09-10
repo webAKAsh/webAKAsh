@@ -7,13 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakash&label=Profile%20views&color=0e75b6&style=flat" alt="webakash" /> </p>
 
-- 🌱 I’m currently exploring in **Next.JS with typescript 😂😂**
+- 🌱 I’m currently exploring in **typescript 😂**
 
 - ⚡ Fun fact **Lets Explore**
 
 <h3 align="left">Designing - </h3>
 <a href="https://xae-bot.vercel.app/src/index.html" target="blank">
   <img src="https://img.shields.io/badge/Bot-193A3E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+<a href="https://blob-xi.vercel.app/src/index.html" target="blank">
+  <img src="https://img.shields.io/badge/Blob-ffaa00?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
 <a href="https://webakash.github.io/TicTacToe/Tic-Tac-Toe.html" target="blank">
