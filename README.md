@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakash&label=Profile%20views&color=0e75b6&style=flat" alt="webakash" /> </p>
 
-- 🌱 I’m currently exploring in **typescript 😂**
+- 🌱 I’m currently exploring in **debugging 😂**
 
-- ⚡ Fun fact **Lets Explore**
+- ⚡ Fun fact **EAT-CODE-SLEEP-REPEAT!**
 
 <h3 align="left">Designing - </h3>
 <a href="https://xae-bot.vercel.app/src/index.html" target="blank">
