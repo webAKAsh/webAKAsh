@@ -1,4 +1,4 @@
-<h1 align="center">const name = Akash => console.log(Akash)</h1>
+<h1 align="center">const name = () => Akash</h1>
 <h3 align="center">{ Akash.valueOf( Web_Developer ) }</h3>
 
 <img align="left" src="https://github.com/webAKAsh/webAKAsh/blob/main/vegeta.gif" width="250" height="150" />
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakash&label=Profile%20views&color=0e75b6&style=flat" alt="webakash" /> </p>
 
-- 🌱 I’m currently exploring in **debugging 😂**
+- 🌱 I’m currently exploring in **DeBUGging 😂**
 
 - ⚡ Fun fact **EAT-CODE-SLEEP-REPEAT!**
 
