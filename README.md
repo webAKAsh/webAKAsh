@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
+<a href="https://notask.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Task%20CRUD-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
+</a>
+
 <a href="https://nft-marketplace-next-app.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/NFT%20MARKETPLACE%20UI-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
 </a>
