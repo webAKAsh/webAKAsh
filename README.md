@@ -37,10 +37,6 @@
   <img src="https://img.shields.io/badge/Task%20CRUD-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
 </a>
 
-<a href="https://nft-marketplace-next-app.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/NFT%20MARKETPLACE%20UI-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-garg-ab278b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash garg" height="30" width="40" /></a>
