@@ -11,31 +11,8 @@
 
 - ⚡ Fun fact **EAT-CODE-SLEEP-REPEAT!**
 
-<h3 align="left">Designing - </h3>
-<a href="https://xae-bot.vercel.app/src/index.html" target="blank">
-  <img src="https://img.shields.io/badge/Bot-193A3E?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
+<h3 align="left">Portfolio<a htef="https://akash-gules.vercel.app/" target="_blank" /></h3>
 
-<a href="https://blob-xi.vercel.app/src/index.html" target="blank">
-  <img src="https://img.shields.io/badge/Blob-ffaa00?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
-
-<a href="https://webakash.github.io/TicTacToe/Tic-Tac-Toe.html" target="blank">
-  <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE...-darkred?style=for-the-badge&logo=Vodafone"/>
-</a>
-
-<h3 align="left">React.JS Projects:</h3>
-<a href="https://react-calculator-mu-five.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Calculator -20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
-<a href="https://react-movie-aloiiodpy-webakash.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Movie Search-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
-<a href="https://notask.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Task%20CRUD-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"/>
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
