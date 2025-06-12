@@ -11,8 +11,9 @@
 
 - ⚡ Fun fact **EAT-CODE-SLEEP-REPEAT!**
 
-<h3 align="left">Portfolio<a href="https://akash-gules.vercel.app/" target="_blank" /></h3>
-
+<a href="https://akash-gules.vercel.app/" target="blank">
+ Portfolio
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
